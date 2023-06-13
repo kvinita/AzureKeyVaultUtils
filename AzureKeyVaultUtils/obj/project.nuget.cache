@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "WLm78ul8QJ/5TM32T1N2dAS1KoY3/98Mj+OtWke8PhSApxMy43R8TWj14dA0nS5knsA0rxgAyzpYVbaCljME8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinita.k\\source\\repos\\AzureKeyVaultUtils\\AzureKeyVaultUtils\\AzureKeyVaultUtils.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinita.k\\.nuget\\packages\\azure.core\\1.32.0\\azure.core.1.32.0.nupkg.sha512",
+    "C:\\Users\\vinita.k\\.nuget\\packages\\azure.identity\\1.9.0\\azure.identity.1.9.0.nupkg.sha512",
+    "C:\\Users\\vinita.k\\.nuget\\packages\\azure.security.keyvault.secrets\\4.5.0\\azure.security.keyvault.secrets.4.5.0.nupkg.sha512",
+    "C:\\Users\\vinita.k\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
+    "C:\\Users\\vinita.k\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\vinita.k\\.nuget\\packages\\microsoft.identity.client\\4.49.1\\microsoft.identity.client.4.49.1.nupkg.sha512",
+    "C:\\Users\\vinita.k\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\2.25.3\\microsoft.identity.client.extensions.msal.2.25.3.nupkg.sha512",
+    "C:\\Users\\vinita.k\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.0\\microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512",
+    "C:\\Users\\vinita.k\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\vinita.k\\.nuget\\packages\\serilog\\3.0.0-dev-02022\\serilog.3.0.0-dev-02022.nupkg.sha512",
+    "C:\\Users\\vinita.k\\.nuget\\packages\\serilog.sinks.console\\4.1.1-dev-00910\\serilog.sinks.console.4.1.1-dev-00910.nupkg.sha512",
+    "C:\\Users\\vinita.k\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\vinita.k\\.nuget\\packages\\system.io.filesystem.accesscontrol\\5.0.0\\system.io.filesystem.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\vinita.k\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\vinita.k\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\vinita.k\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\vinita.k\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\vinita.k\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\vinita.k\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\vinita.k\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\vinita.k\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\vinita.k\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
