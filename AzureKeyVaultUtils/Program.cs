@@ -1,5 +1,5 @@
-﻿using AzureKeyVaultUtils.Src;
-using AzureKeyVaultUtils.Src.Services;
+﻿using AzureKeyVaultUtils.Helpers;
+using AzureKeyVaultUtils.Models;
 using CommandLine;
 using Serilog;
 using System.Text.Json;
