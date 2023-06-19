@@ -10,10 +10,15 @@ namespace AzureKeyVaultUtils
     {
         static void Main(string[] args)
         {
+            // Configuring logger
             Log.Logger = new LoggerConfiguration()
             .WriteTo.Console()
             .CreateLogger();
+
+            // Handle input arguments
             HandleCommandLineArguments(args);
+
+            // Flush the logger
             Log.CloseAndFlush();
         }
 
