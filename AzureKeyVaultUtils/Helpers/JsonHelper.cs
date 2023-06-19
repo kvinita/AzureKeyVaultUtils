@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 
-namespace AzureKeyVaultUtils.Src.Services
+namespace AzureKeyVaultUtils.Helpers
 {
     public class JsonHelper
     {
