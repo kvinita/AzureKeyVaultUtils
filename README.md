@@ -10,7 +10,7 @@ Before running this application, ensure that you have the following prerequisite
 1. .NET Core SDK installed.
 2. Azure subscription with access to Azure Key Vault.
 
-#Installation
+# Installation
 1. Run the command to create a nuget package from the project. A new folder called 'nupkg' is created with the new nuget package.
    >`dotnet pack`
 2. Run command inside 'nupkg' folder to install the nuget package globally
